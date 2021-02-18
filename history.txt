@@ -1,0 +1,168 @@
+    1  git config --global user.name Dukemegaman
+    2  git config -- global user.email dukemegaman@gmail.com
+    3  %git config --global user.name Dukemegaman
+    4  % git config --global user.name Dukemegaman
+    5  git config --global user.name Dukemegaman
+    6  git config --global user.email Dukemegaman@gmail.com
+    7  git config --global color.ui auto
+    8  ls
+    9  cd desktop
+   10  mkdir
+   11  mkdir tetsdir
+   12  ls
+   13  ~
+   14  ~`/
+   15  cd~
+   16  cd :
+   17  ~desktop
+   18  cd desktop
+   19  ls
+   20  \
+   21  $
+   22  $~
+   23  mkdir Project
+   24  mkdir Project
+   25  sudo mkdir Project
+   26  git config --global user.name Dukemegaman
+   27  git config --global user.email Dukemegaman@gmail.com
+   28  git config --global color.ui auto
+   29  mkdir Project
+   30  ls -lah
+   31  whoami
+   32  id
+   33  pwd
+   34  cd ~
+   35  mkdir Project
+   36  pwd
+   37  ls
+   38  cd project
+   39  touch changes.txt
+   40  touch readme.md
+   41  echo "Приветики" > changes.txt
+   42  cat changes.txt
+   43  cd desktop
+   44  cd ~
+   45  cd desktop
+   46  mkdir repo
+   47  cd repo
+   48  git init
+   49  ls -a
+   50  git status
+   51  pwd
+   52  cd..
+   53  cd ..
+   54  cd repo-gui
+   55  cat readme.md
+   56  cd repo
+   57  cd ..
+   58  cd repo
+   59  git status
+   60  git remote add origin https://github.com/Dukemegaman/repo-github.git
+   61  git remote
+   62  git remote -v
+   63  git status
+   64  touch readme.md
+   65  git status
+   66  git add readme.md
+   67  git status
+   68  git committed
+   69  git commit
+   70  echo "edited" > readme.md
+   71  git status
+   72  git commit -am 'updated readme.md'
+   73  git status
+   74  ls
+   75  mkdir images
+   76  git status
+   77  touch images/.gitkeep
+   78  ls
+   79  ls -a
+   80  git status
+   81  git add images
+   82  git commit -m 'created images directory'
+   83  ls
+   84  touch .gitignore
+   85  git status
+   86  git add.gitignore
+   87  git add. gitignore
+   88  git status
+   89  git add .gitignore
+   90  git status
+   91  echo "config" > .gitignore
+   92  cat .gitignore
+   93  git status
+   94  git commit -am 'ignore set up'
+   95  touch config
+   96  ls
+   97  git status
+   98  cd..
+   99  cd repo-gui
+  100  pwd
+  101  ls
+  102  cd ..
+  103  cd repo-gui
+  104  ls
+  105  git status
+  106  cd ..
+  107  cd repo
+  108  touch nogit.txt
+  109  git status
+  110  echo nogit.txt >> .gitignore
+  111  git status
+  112  cat .gitignore
+  113  git add .gitignore
+  114  git status
+  115  git commit -m 'initial commit'
+  116  git status
+  117  pwd
+  118  git status
+  119  git log
+  120  git log --oneline
+  121  touch example
+  122  git add EXAMPLE
+  123  git log --oneline
+  124* 
+  125  git log --oneline
+  126  git status
+  127  git add example
+  128  git commit -m 'test commit'
+  129  git log --oneline
+  130  git reset b0a920c 
+  131  git log --oneline
+  132  git reflog
+  133  git reset 9b6e7cf
+  134  git log --oneline
+  135  git revert b0a920c
+  136  ls
+  137  git revert fa4f7b2
+  138  git revert 
+  139  git revert 
+  140  git revert 54080fe
+  141  git status
+  142  git add .
+  143  git status
+  144  git log oneline
+  145  git log --oneline
+  146  git revert fa4f7b2
+  147  git status
+  148  ;ls
+  149  ls
+  150  ls
+  151  echo 'Pisya' >> readme.md
+  152  cat readme.md
+  153  git log --oneline
+  154  git status
+  155* 
+  156  git commit -m 'pisya commit'
+  157  git log --oneline
+  158* 
+  159  git log --oneline
+  160  git reset b0a920c
+  161  git log --onelinegit log --oneline
+  162  git log --oneline
+  163  git status
+  164  git add .
+  165  git status
+  166  git commit -m 'hui'
+  167  git log --oneline
+  168  history > history.txt
